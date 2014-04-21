@@ -1,0 +1,1520 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "吳振力診所",
+        "clinicAddr": "台北市中山區長春路309號",
+        "groupRef": "1010100114",
+        "groupName": "台北好安心社區醫療群",
+        "lon": "121.54284",
+        "lat": "25.054829"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.54284,25.054829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "車參薇小兒科診所",
+        "clinicAddr": "台北市松山區八德路3段195號1樓",
+        "groupRef": "1010100114",
+        "groupName": "台北好安心社區醫療群",
+        "lon": "121.55618",
+        "lat": "25.048141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.55618,25.048141]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "林青穀家庭醫學科診所",
+        "clinicAddr": "台北市大安區大安路1段2-1號",
+        "groupRef": "1010100114",
+        "groupName": "台北好安心社區醫療群",
+        "lon": "121.546097",
+        "lat": "25.044809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.546097,25.044809]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "安成診所",
+        "clinicAddr": "台北市松山區富錦街497號",
+        "groupRef": "1010100114",
+        "groupName": "台北好安心社區醫療群",
+        "lon": "121.563845",
+        "lat": "25.0610999"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.563845,25.0610999]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "親親家庭診所",
+        "clinicAddr": "台北市松山區南京東路5段269號",
+        "groupRef": "1010100114",
+        "groupName": "台北好安心社區醫療群",
+        "lon": "121.565594",
+        "lat": "25.051596"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.565594,25.051596]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "陽光耳鼻喉科診所",
+        "clinicAddr": "台北市信義區松山路484之8號",
+        "groupRef": "1010100114",
+        "groupName": "台北好安心社區醫療群",
+        "lon": "121.577902",
+        "lat": "25.03874"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.577902,25.03874]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "大直診所",
+        "clinicAddr": "台北市中山區北安路591號、北安路595巷2弄2號",
+        "groupRef": "1010100114",
+        "groupName": "台北好安心社區醫療群",
+        "lon": "121.5487696",
+        "lat": "25.0820612"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.5487696,25.0820612]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "董耳鼻喉科診所",
+        "clinicAddr": "台北市信義區永吉路284號1樓",
+        "groupRef": "1010100114",
+        "groupName": "台北好安心社區醫療群",
+        "lon": "121.5743853",
+        "lat": "25.0454264"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.5743853,25.0454264]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "台北市立聯合醫院附設松山門診部",
+        "clinicAddr": "台北市松山區八德路4段694號1,2樓",
+        "groupRef": "1010100313",
+        "groupName": "松山社區醫療群",
+        "lon": "121.5760135",
+        "lat": "25.0499333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.5760135,25.0499333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "希文耳鼻喉科診所",
+        "clinicAddr": "台北市南港區忠孝東路6段234號",
+        "groupRef": "1010100313",
+        "groupName": "松山社區醫療群",
+        "lon": "121.587748",
+        "lat": "25.048732"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.587748,25.048732]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "大家好診所",
+        "clinicAddr": "台北市松山區民生東路4段80巷11弄2號1樓",
+        "groupRef": "1010100313",
+        "groupName": "松山社區醫療群",
+        "lon": "121.553095",
+        "lat": "25.0565559"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.553095,25.0565559]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "台北市立聯合醫院附設松山門診部",
+        "clinicAddr": "台北市松山區八德路4段694號1,2樓",
+        "groupRef": "1010100313",
+        "groupName": "松山社區醫療群",
+        "lon": "121.5760135",
+        "lat": "25.0499333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.5760135,25.0499333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "成安耳鼻喉科診所",
+        "clinicAddr": "台北市內湖區成功路4段153號",
+        "groupRef": "1010100313",
+        "groupName": "松山社區醫療群",
+        "lon": "121.594005",
+        "lat": "25.083112"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.594005,25.083112]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "台北市立聯合醫院附設內湖門診部",
+        "clinicAddr": "台北市內湖區民權東路6段99號1樓",
+        "groupRef": "1010100313",
+        "groupName": "松山社區醫療群",
+        "lon": "121.5890989",
+        "lat": "25.0692308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.5890989,25.0692308]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "邱醫師診所",
+        "clinicAddr": "台北市大安區和平東路3段288號",
+        "groupRef": "1010200115",
+        "groupName": "仁愛健康社區醫療群",
+        "lon": "121.556054",
+        "lat": "25.0208339"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.556054,25.0208339]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "李翔耳鼻喉科診所",
+        "clinicAddr": "台北市大安區和平東路2段30號1樓",
+        "groupRef": "1010200115",
+        "groupName": "仁愛健康社區醫療群",
+        "lon": "121.5367797",
+        "lat": "25.0256128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.5367797,25.0256128]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "謝耳鼻喉科診所",
+        "clinicAddr": "台北市松山區民生東路5段148號2樓",
+        "groupRef": "1010200115",
+        "groupName": "仁愛健康社區醫療群",
+        "lon": "121.562148",
+        "lat": "25.0584919"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.562148,25.0584919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "詹前俊小兒科診所",
+        "clinicAddr": "台北市松山區民生東路5段105號",
+        "groupRef": "1010200115",
+        "groupName": "仁愛健康社區醫療群",
+        "lon": "121.560071",
+        "lat": "25.058791"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.560071,25.058791]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "佳音診所",
+        "clinicAddr": "台北市大安區復興南路1段261之3號1樓",
+        "groupRef": "1010200115",
+        "groupName": "仁愛健康社區醫療群",
+        "lon": "121.543819",
+        "lat": "25.0361869"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.543819,25.0361869]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "全家聯合診所",
+        "clinicAddr": "台北市大安區和平東路2段353號",
+        "groupRef": "1010200115",
+        "groupName": "仁愛健康社區醫療群",
+        "lon": "121.546202",
+        "lat": "25.0249159"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.546202,25.0249159]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "邱醫師診所",
+        "clinicAddr": "台北市大安區和平東路3段288號",
+        "groupRef": "1010200115",
+        "groupName": "仁愛健康社區醫療群",
+        "lon": "121.556054",
+        "lat": "25.0208339"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.556054,25.0208339]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "向安婦產科外科診所",
+        "clinicAddr": "台北市大安區和平東路1段197號1樓",
+        "groupRef": "1010200115",
+        "groupName": "仁愛健康社區醫療群",
+        "lon": "121.533985",
+        "lat": "25.026305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.533985,25.026305]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "興安診所",
+        "clinicAddr": "台北市中山區民生東路3段90號2樓、90號2樓之3",
+        "groupRef": "1010900010",
+        "groupName": "保安社區醫療群",
+        "lon": "121.543485",
+        "lat": "25.057454"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.543485,25.057454]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "陳炯輝診所",
+        "clinicAddr": "台北市中山區民生東路2段103號",
+        "groupRef": "1010900010",
+        "groupName": "保安社區醫療群",
+        "lon": "121.531288",
+        "lat": "25.058102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.531288,25.058102]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "王佳文內兒科診所",
+        "clinicAddr": "台北市大同區重慶北路3段274-1號",
+        "groupRef": "1010900010",
+        "groupName": "保安社區醫療群",
+        "lon": "121.51365",
+        "lat": "25.0718769"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.51365,25.0718769]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "逸松外科診所",
+        "clinicAddr": "台北市大同區重慶北路2段190號",
+        "groupRef": "1010900010",
+        "groupName": "保安社區醫療群",
+        "lon": "121.5134114",
+        "lat": "25.062435"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.5134114,25.062435]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "楊吉銓婦產科診所",
+        "clinicAddr": "台北市中山區民生東路2段109號",
+        "groupRef": "1010900010",
+        "groupName": "保安社區醫療群",
+        "lon": "121.531411",
+        "lat": "25.058106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.531411,25.058106]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "施小兒科診所",
+        "clinicAddr": "台北市大同區重慶北路3段28號",
+        "groupRef": "1010900010",
+        "groupName": "保安社區醫療群",
+        "lon": "121.513454",
+        "lat": "25.06502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.513454,25.06502]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "德容聯合診所",
+        "clinicAddr": "台北市中山區吉林路197號、197號2樓",
+        "groupRef": "1011000013",
+        "groupName": "中山社區醫療群",
+        "lon": "121.529998",
+        "lat": "25.0485407"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.529998,25.0485407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "元林診所",
+        "clinicAddr": "台北市中山區吉林路239號3樓、239號3樓-1",
+        "groupRef": "1011000013",
+        "groupName": "中山社區醫療群",
+        "lon": "121.530514",
+        "lat": "25.0611841"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.530514,25.0611841]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "中山民權王耳鼻喉科診所",
+        "clinicAddr": "台北市中山區中山北路2段166號之2",
+        "groupRef": "1011000013",
+        "groupName": "中山社區醫療群",
+        "lon": "121.5223901",
+        "lat": "25.0631924"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.5223901,25.0631924]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "德容聯合診所",
+        "clinicAddr": "台北市中山區吉林路197號、197號2樓",
+        "groupRef": "1011000013",
+        "groupName": "中山社區醫療群",
+        "lon": "121.529998",
+        "lat": "25.0485407"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.529998,25.0485407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "元林診所",
+        "clinicAddr": "台北市中山區吉林路239號3樓、239號3樓-1",
+        "groupRef": "1011000013",
+        "groupName": "中山社區醫療群",
+        "lon": "121.530514",
+        "lat": "25.0611841"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.530514,25.0611841]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "建順診所",
+        "clinicAddr": "台北市大同區甘州街51號",
+        "groupRef": "1011000013",
+        "groupName": "中山社區醫療群",
+        "lon": "121.512851",
+        "lat": "25.059835"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.512851,25.059835]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "聖心婦產科診所",
+        "clinicAddr": "台北市大同區保安街1-1號",
+        "groupRef": "1011000013",
+        "groupName": "中山社區醫療群",
+        "lon": "121.51456",
+        "lat": "25.0594189"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.51456,25.0594189]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "王三郎婦產科診所",
+        "clinicAddr": "台北市中山區中山北路2段166號-2",
+        "groupRef": "1011000013",
+        "groupName": "中山社區醫療群",
+        "lon": "121.5223901",
+        "lat": "25.0631924"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.5223901,25.0631924]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "李木生婦產科診所",
+        "clinicAddr": "台北市中山區長安東路2段90號1-4樓88號4樓",
+        "groupRef": "1011000510",
+        "groupName": "北醫大(一)社區醫療群",
+        "lon": "121.540615",
+        "lat": "25.0483979"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.540615,25.0483979]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "中崙聯合診所",
+        "clinicAddr": "台北市中山區八德路2段303、305號1樓、307號1樓",
+        "groupRef": "1011000510",
+        "groupName": "北醫大(一)社區醫療群",
+        "lon": "121.538079",
+        "lat": "25.047464"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.538079,25.047464]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "安德聯合診所",
+        "clinicAddr": "台北市松山區八德路3段34號4樓、12樓",
+        "groupRef": "1011000510",
+        "groupName": "北醫大(一)社區醫療群",
+        "lon": "121.552029",
+        "lat": "25.048043"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.552029,25.048043]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "同心婦產科診所",
+        "clinicAddr": "台北市大安區東豐街26號",
+        "groupRef": "1011000510",
+        "groupName": "北醫大(一)社區醫療群",
+        "lon": "121.545391",
+        "lat": "25.035895"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.545391,25.035895]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "同心婦產科診所",
+        "clinicAddr": "台北市大安區東豐街26號",
+        "groupRef": "1011000510",
+        "groupName": "北醫大(一)社區醫療群",
+        "lon": "121.545391",
+        "lat": "25.035895"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.545391,25.035895]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "葉小兒科診所",
+        "clinicAddr": "台北市中山區長春路227號",
+        "groupRef": "1011000510",
+        "groupName": "北醫大(一)社區醫療群",
+        "lon": "121.538813",
+        "lat": "25.054887"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.538813,25.054887]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "中崙聯合診所",
+        "clinicAddr": "台北市中山區八德路2段303、305號1樓、307號1樓",
+        "groupRef": "1011000510",
+        "groupName": "北醫大(一)社區醫療群",
+        "lon": "121.538079",
+        "lat": "25.047464"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.538079,25.047464]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "康育診所",
+        "clinicAddr": "台北市內湖區成功路3段189號1樓",
+        "groupRef": "1011100310",
+        "groupName": "內湖社區醫療群",
+        "lon": "121.59075",
+        "lat": "25.0803589"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.59075,25.0803589]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "振興內兒科診所",
+        "clinicAddr": "台北市內湖區成功路3段193號",
+        "groupRef": "1011100310",
+        "groupName": "內湖社區醫療群",
+        "lon": "121.5908115",
+        "lat": "25.0804718"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.5908115,25.0804718]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "陳德駿婦產科診所",
+        "clinicAddr": "台北市內湖區文德路8號2樓",
+        "groupRef": "1011100310",
+        "groupName": "內湖社區醫療群",
+        "lon": "121.578942",
+        "lat": "25.078418"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.578942,25.078418]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "王慶森診所",
+        "clinicAddr": "台北市內湖區港墘路65號",
+        "groupRef": "1011100310",
+        "groupName": "內湖社區醫療群",
+        "lon": "121.5782736",
+        "lat": "25.0812153"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.5782736,25.0812153]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "劉淦華診所",
+        "clinicAddr": "台北市內湖區金龍路43號1樓",
+        "groupRef": "1011100310",
+        "groupName": "內湖社區醫療群",
+        "lon": "121.59389",
+        "lat": "25.084931"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.59389,25.084931]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "雙湖診所",
+        "clinicAddr": "台北市內湖區金龍路49號1樓",
+        "groupRef": "1011100310",
+        "groupName": "內湖社區醫療群",
+        "lon": "121.593623",
+        "lat": "25.084937"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.593623,25.084937]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "陳森豊診所",
+        "clinicAddr": "台北市內湖區環山路1段2號1樓及2樓",
+        "groupRef": "1011100910",
+        "groupName": "健康內湖社區醫療群",
+        "lon": "121.5652667",
+        "lat": "25.0827779"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.5652667,25.0827779]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "德文復健科診所",
+        "clinicAddr": "台北市內湖區成功路4段56,58號4樓",
+        "groupRef": "1011100910",
+        "groupName": "健康內湖社區醫療群",
+        "lon": "121.592369",
+        "lat": "25.082435"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.592369,25.082435]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "陳森豊診所",
+        "clinicAddr": "台北市內湖區環山路1段2號1樓及2樓",
+        "groupRef": "1011100910",
+        "groupName": "健康內湖社區醫療群",
+        "lon": "121.5652667",
+        "lat": "25.0827779"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.5652667,25.0827779]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "馬思特診所",
+        "clinicAddr": "台北市內湖區成功路4段53號1樓",
+        "groupRef": "1011100910",
+        "groupName": "健康內湖社區醫療群",
+        "lon": "121.592121",
+        "lat": "25.081631"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.592121,25.081631]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "顏鳳麟婦產科診所",
+        "clinicAddr": "台北市內湖區成功路4段28號2樓",
+        "groupRef": "1011100910",
+        "groupName": "健康內湖社區醫療群",
+        "lon": "121.597186",
+        "lat": "25.0862599"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.597186,25.0862599]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "林博通醫師診所",
+        "clinicAddr": "台北市士林區通河街60號1樓",
+        "groupRef": "1011500411",
+        "groupName": "陽明(草山)社區醫療群",
+        "lon": "121.521029",
+        "lat": "25.080664"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.521029,25.080664]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "貝爾聯合診所",
+        "clinicAddr": "台北市士林區中山北路7段82巷9號1摟",
+        "groupRef": "1011500411",
+        "groupName": "陽明(草山)社區醫療群",
+        "lon": "121.532461",
+        "lat": "25.121418"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.532461,25.121418]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "家庭醫師張正弘診所",
+        "clinicAddr": "台北市士林區天玉街38巷9號",
+        "groupRef": "1011500411",
+        "groupName": "陽明(草山)社區醫療群",
+        "lon": "121.529079",
+        "lat": "25.120515"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.529079,25.120515]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "忠誠聯合診所",
+        "clinicAddr": "台北市士林區德行東路109巷102弄6號1樓",
+        "groupRef": "1011500411",
+        "groupName": "陽明(草山)社區醫療群",
+        "lon": "121.529197",
+        "lat": "25.110834"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.529197,25.110834]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "陳珀勳診所",
+        "clinicAddr": "台北市北投區明德路85號",
+        "groupRef": "1011500411",
+        "groupName": "陽明(草山)社區醫療群",
+        "lon": "121.518705",
+        "lat": "25.10892"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.518705,25.10892]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "鄭醫師診所",
+        "clinicAddr": "台北市士林區延平北路5段120號1、2樓",
+        "groupRef": "1011500411",
+        "groupName": "陽明(草山)社區醫療群",
+        "lon": "121.510633",
+        "lat": "25.081634"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.510633,25.081634]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "柯佑民小兒科診所",
+        "clinicAddr": "台北市士林區天母東路8巷19弄5號1樓",
+        "groupRef": "1011500412",
+        "groupName": "陽明(群三)社區醫療群",
+        "lon": "121.532086",
+        "lat": "25.117542"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.532086,25.117542]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "天母許內兒科診所",
+        "clinicAddr": "台北市士林區天母北路49號",
+        "groupRef": "1011500412",
+        "groupName": "陽明(群三)社區醫療群",
+        "lon": "121.52692",
+        "lat": "25.120989"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.52692,25.120989]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "何啟溫診所",
+        "clinicAddr": "台北市士林區德行東路63號1樓",
+        "groupRef": "1011500412",
+        "groupName": "陽明(群三)社區醫療群",
+        "lon": "121.526934",
+        "lat": "25.107309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.526934,25.107309]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "健原診所",
+        "clinicAddr": "台北市士林區中正路627號1樓",
+        "groupRef": "1011500412",
+        "groupName": "陽明(群三)社區醫療群",
+        "lon": "121.508685",
+        "lat": "25.086236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.508685,25.086236]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "邱世昌診所",
+        "clinicAddr": "台北市士林區文林路718號",
+        "groupRef": "1011500412",
+        "groupName": "陽明(群三)社區醫療群",
+        "lon": "121.520808",
+        "lat": "25.1025269"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.520808,25.1025269]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "德福診所",
+        "clinicAddr": "台北市士林區大東路77號",
+        "groupRef": "1011500414",
+        "groupName": "陽明(群五)社區醫療群",
+        "lon": "121.525583",
+        "lat": "25.0906399"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.525583,25.0906399]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "蕭雨青小兒科診所",
+        "clinicAddr": "台北市士林區延平北路5段292號1樓",
+        "groupRef": "1011500414",
+        "groupName": "陽明(群五)社區醫療群",
+        "lon": "121.509731",
+        "lat": "25.085665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.509731,25.085665]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "柯耳鼻喉科診所",
+        "clinicAddr": "台北市士林區大東路144號",
+        "groupRef": "1011500414",
+        "groupName": "陽明(群五)社區醫療群",
+        "lon": "121.5254663",
+        "lat": "25.092072"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.5254663,25.092072]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "林文正耳鼻喉科診所",
+        "clinicAddr": "台北市北投區明德路117號",
+        "groupRef": "1011500414",
+        "groupName": "陽明(群五)社區醫療群",
+        "lon": "121.519873",
+        "lat": "25.109973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.519873,25.109973]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "石牌李力成診所",
+        "clinicAddr": "台北市北投區西安街1段281巷15號",
+        "groupRef": "1011500414",
+        "groupName": "陽明(群五)社區醫療群",
+        "lon": "121.516324",
+        "lat": "25.1115109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.516324,25.1115109]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "柯耳鼻喉科診所",
+        "clinicAddr": "台北市士林區大東路144號",
+        "groupRef": "1011500414",
+        "groupName": "陽明(群五)社區醫療群",
+        "lon": "121.5254663",
+        "lat": "25.092072"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.5254663,25.092072]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "美康診所",
+        "clinicAddr": "台北市北投區光明路2巷9-2號",
+        "groupRef": "1011500415",
+        "groupName": "陽明(聯合)社區醫療群",
+        "lon": "121.4994552",
+        "lat": "25.1316114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.4994552,25.1316114]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "蘇惠珍皮膚科診所",
+        "clinicAddr": "台北市士林區忠義街83號",
+        "groupRef": "1011500415",
+        "groupName": "陽明(聯合)社區醫療群",
+        "lon": "121.532033",
+        "lat": "25.1060819"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.532033,25.1060819]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "陳獻明小兒科診所",
+        "clinicAddr": "台北市北投區中央南路1段69號1樓",
+        "groupRef": "1011500415",
+        "groupName": "陽明(聯合)社區醫療群",
+        "lon": "121.501356",
+        "lat": "25.131439"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.501356,25.131439]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "康田診所",
+        "clinicAddr": "台北市北投區自強街76號",
+        "groupRef": "1011500415",
+        "groupName": "陽明(聯合)社區醫療群",
+        "lon": "121.514373",
+        "lat": "25.110516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.514373,25.110516]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "誠康診所",
+        "clinicAddr": "台北市內湖區內湖路1段585號",
+        "groupRef": "1011500415",
+        "groupName": "陽明(聯合)社區醫療群",
+        "lon": "121.5729415",
+        "lat": "25.0810487"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.5729415,25.0810487]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "愛林診所",
+        "clinicAddr": "台北市士林區後港街210號1、2樓",
+        "groupRef": "1011500710",
+        "groupName": "士林社區醫療群",
+        "lon": "121.5205748",
+        "lat": "25.0884902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.5205748,25.0884902]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "博政骨科診所",
+        "clinicAddr": "台北市士林區德行西路99號1樓、101號1樓",
+        "groupRef": "1011500710",
+        "groupName": "士林社區醫療群",
+        "lon": "121.521176",
+        "lat": "25.104306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.521176,25.104306]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "鄭福山婦產科診所",
+        "clinicAddr": "台北市士林區中山北路6段256號",
+        "groupRef": "1011500710",
+        "groupName": "士林社區醫療群",
+        "lon": "121.525571",
+        "lat": "25.1094499"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.525571,25.1094499]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "梁如蘭眼科診所",
+        "clinicAddr": "台北市士林區中山北路6段266號1樓",
+        "groupRef": "1011500710",
+        "groupName": "士林社區醫療群",
+        "lon": "121.525615",
+        "lat": "25.109707"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.525615,25.109707]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "粱耳鼻喉科診所",
+        "clinicAddr": "台北市士林區社正路12-1號",
+        "groupRef": "1011500710",
+        "groupName": "士林社區醫療群",
+        "lon": "121.509282",
+        "lat": "25.08852"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.509282,25.08852]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "台美診所",
+        "clinicAddr": "台北市士林區中山北路6段192號",
+        "groupRef": "1011500710",
+        "groupName": "士林社區醫療群",
+        "lon": "121.525318",
+        "lat": "25.107853"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.525318,25.107853]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "梁如蘭眼科診所",
+        "clinicAddr": "台北市士林區中山北路6段266號1樓",
+        "groupRef": "1011500710",
+        "groupName": "士林社區醫療群",
+        "lon": "121.525615",
+        "lat": "25.109707"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.525615,25.109707]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "永安家庭醫學科診所",
+        "clinicAddr": "台北市北投區公館路47號",
+        "groupRef": "1011600712",
+        "groupName": "北投社區醫療群",
+        "lon": "121.503456",
+        "lat": "25.132884"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.503456,25.132884]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "清田婦產科家醫科診所",
+        "clinicAddr": "台北市北投區中和街268號",
+        "groupRef": "1011600712",
+        "groupName": "北投社區醫療群",
+        "lon": "121.500704",
+        "lat": "25.140165"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.500704,25.140165]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "蔡秉勳小兒科診所",
+        "clinicAddr": "台北市北投區中和街281號1樓",
+        "groupRef": "1011600712",
+        "groupName": "北投社區醫療群",
+        "lon": "121.500361",
+        "lat": "25.140278"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.500361,25.140278]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "王正淵診所",
+        "clinicAddr": "台北市北投區中央北路2段225號",
+        "groupRef": "1011600712",
+        "groupName": "北投社區醫療群",
+        "lon": "121.491864",
+        "lat": "25.138203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.491864,25.138203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "祐民聯合診所",
+        "clinicAddr": "台北市北投區中央南路1段207號1、2、3樓",
+        "groupRef": "1011600712",
+        "groupName": "北投社區醫療群",
+        "lon": "121.501346",
+        "lat": "25.128338"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.501346,25.128338]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "李兆然家醫科診所",
+        "clinicAddr": "新北市淡水區學府路18號",
+        "groupRef": "1011600712",
+        "groupName": "北投社區醫療群",
+        "lon": "121.447793",
+        "lat": "25.167935"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.447793,25.167935]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "邱耳鼻喉科診所",
+        "clinicAddr": "台北市北投區石牌路1段23號1、2樓",
+        "groupRef": "1011600714",
+        "groupName": "石牌社區醫療群",
+        "lon": "121.509894",
+        "lat": "25.112968"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.509894,25.112968]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "王志靈診所",
+        "clinicAddr": "台北市北投區實踐街44號",
+        "groupRef": "1011600714",
+        "groupName": "石牌社區醫療群",
+        "lon": "121.508986",
+        "lat": "25.115163"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.508986,25.115163]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "王永良診所",
+        "clinicAddr": "台北市北投區自強街94號",
+        "groupRef": "1011600714",
+        "groupName": "石牌社區醫療群",
+        "lon": "121.514983",
+        "lat": "25.110652"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.514983,25.110652]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "光明診所",
+        "clinicAddr": "台北市北投區石牌路2段99巷55號1、2樓",
+        "groupRef": "1011600714",
+        "groupName": "石牌社區醫療群",
+        "lon": "121.516757",
+        "lat": "25.118459"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.516757,25.118459]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "邱耳鼻喉科診所",
+        "clinicAddr": "台北市北投區石牌路1段23號1、2樓",
+        "groupRef": "1011600714",
+        "groupName": "石牌社區醫療群",
+        "lon": "121.509894",
+        "lat": "25.112968"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.509894,25.112968]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "翰譽耳鼻喉科診所",
+        "clinicAddr": "台北市北投區中央南路1段189號",
+        "groupRef": "1011600714",
+        "groupName": "石牌社區醫療群",
+        "lon": "121.501265",
+        "lat": "25.1288059"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.501265,25.1288059]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "台北市立聯合醫院附設南港門診部",
+        "clinicAddr": "台北市南港區南港路1段360號1樓",
+        "groupRef": "1011700311",
+        "groupName": "台北東區社區醫療群",
+        "lon": "121.6067809",
+        "lat": "25.0545142"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.6067809,25.0545142]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "奕康耳鼻喉科診所",
+        "clinicAddr": "台北市中正區連雲街72號2樓",
+        "groupRef": "1011700311",
+        "groupName": "台北東區社區醫療群",
+        "lon": "121.529965",
+        "lat": "25.034531"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.529965,25.034531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "新眼光眼科診所",
+        "clinicAddr": "台北市信義區忠孝東路5段508之1號及518號",
+        "groupRef": "1011700311",
+        "groupName": "台北東區社區醫療群",
+        "lon": "121.578769",
+        "lat": "25.040854"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.578769,25.040854]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "姚醫師診所",
+        "clinicAddr": "台北市信義區忠孝東路5段396號2樓",
+        "groupRef": "1011700311",
+        "groupName": "台北東區社區醫療群",
+        "lon": "121.5745765",
+        "lat": "25.0407447"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.5745765,25.0407447]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "登瑞安診所",
+        "clinicAddr": "台北市信義區林口街232號1樓",
+        "groupRef": "1011700311",
+        "groupName": "台北東區社區醫療群",
+        "lon": "121.579213",
+        "lat": "25.037324"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.579213,25.037324]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clinicName": "奕康耳鼻喉科診所",
+        "clinicAddr": "台北市中正區連雲街72號2樓",
+        "groupRef": "1011700311",
+        "groupName": "台北東區社區醫療群",
+        "lon": "121.529965",
+        "lat": "25.034531"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.529965,25.034531]
+      }
+    }
+  ]
+}

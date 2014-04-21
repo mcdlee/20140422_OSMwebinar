@@ -1,0 +1,190 @@
+﻿<!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<title></title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=792, user-scalable=no">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<link rel="stylesheet" href="lib/shower/themes/ribbon/styles/screen.css">
+	<link rel="stylesheet" href="lib/csshake.min.css">
+	<style type="text/css" media="all">
+	        section.slide p.source {
+            		color: #000;
+            		position: absolute;
+            		bottom: 10px;
+            		right: 10px;
+            		text-align: right;
+            		font-size: 0.8em;
+            		margin: 0px;
+        	}   
+        	section.slide p.source a {
+            		color: #000;
+        	}
+        	table.clean td img {
+            		vertical-align: top;
+        	}
+        	table.clean td {
+            		background: none;
+        	}
+			section.slide.cover h2{
+				color: #000;
+				font-size: 70 px;
+				text-align:center;
+				background-color: rgba(250, 250, 250, 0.5);
+			}
+        
+			/* two column slides */
+			section.slide.twocol div.left {
+				width: 	48%;
+				float: left;
+			}
+			section.slide.twocol div.right {
+				width: 48%;
+				float: right;
+			}
+			section.slide.twocol-ll div.left {
+				width: 65%;
+				float: left;
+			}
+			section.slide.twocol-ll div.right {
+				width: 35%;
+				float: right;
+			}
+			section.slide.twocol-lr div.left {
+				width: 35%;
+				float: left;
+			}
+			section.slide.twocol-lr div.right {
+				width: 65%;
+				float: right;
+			}
+    		</style>
+</head>
+<body class="list">
+	<header class="caption">
+		<h1>使用 R + Shiny + rCharts 產生動態的 Leaflet 地圖</h1>
+		<p>2014-04-22 OSM-TW Webinar</p>
+	</header>
+	<section class="slide cover" id="Cover"><div>
+		<h2>使用 R + Shiny + rCharts 產生動態的 Leaflet 地圖</h2>
+		<p>Department of Nuclear Medicine, Kaohsiung Veterans General Hospital<br /> <a href="http://www.mcdlee.tw">Sin-di Lee</a></p>
+		<img src="pics/cover.png">
+		<p class="source">Background picture: <a href="http://maps.stamen.com/watercolor/">Stamen</a> / Map data: <a href="http://www.openstreetmap.org">OSM</a> and its contributors</p>
+		<!--
+			To apply styles to the certain slides
+			set slide ID to get needed elements
+			-->
+		<style>
+			#Cover h2 {
+				margin:80px 0 0;
+				}
+			#Cover p {
+				margin:10px 0 0;
+				text-align:center;
+				color:#000;
+				font-style:italic;
+				font-size:20px;
+				}
+			#Cover p a {
+				color:#000;
+				}
+		</style>
+	</div></section>
+	<section class="slide"><div>
+	<h2>動機</h2>
+	<p>有些政府的資料是地理資訊 (例如 CityBike station和...)，我想要畫成地圖 (Leaflet, OpenLayers...)。</p>
+	<p>從上次 Rex 的分享，我們可以知道收集到地理資訊，可以透過 <a href="http://leafletjs.com/">leaflet.js</a> 呈現。</p>
+	<ol>
+		<li class="next">但是我不太會用 javascript</li>
+		<li class="next">目前只會寫一點點 R 和一點點 Python</li></ol>
+	</div></section>
+	<section class="slide twocol"><div>
+	<h2>今天會用到一些 R 套件</h2>
+	<div class="left">
+		<h3>主要的功能</h3>
+		<ul>
+			<li>shiny</li>
+			<li><a href="http://cran.r-project.org/web/packages/leafletR/index.html">leafletR</a></li>
+			<li><a href="http://rcharts.io/">rCharts</a>，目前尚未收錄到 CRAN，安裝方式比較特別。</li>
+		</ul></div>
+	<div class="right">
+		<h3>色譜</h3>
+		<ul>
+			<li>scales</li>
+		<h3>資料 reshape</h3>
+		<ul>
+			<li>plyr</li></ul></div>
+	</div></section>
+	<section class="slide"><div>
+	<h2>R -> Leaflet</h2>
+	<p>我們試試看<a href="cList.csv">範例資料</a>，欄位："X", "clinicRef", "clinicName", "clinicAddr", "groupRef", "groupName","lon", "lat"</p>
+	<code>
+		cList <- read.csv("cList.csv")
+		</code>
+	<ul>
+		<li>至少有兩個套件可以生出 leaflet 頁面: <ul>
+			<li><a href="http://cran.r-project.org/web/packages/leafletR/index.html">leafletR</a></li>
+			<li><a href="http://rcharts.io/">rCharts</a>中的 Leaflet</li></ul></li></ul>
+	</div></section>
+	<section class="slide"><div>
+	<h2>leafletR</h2>
+	<code>
+		s.dat <- toGeoJSON(data=cList, lat.lon=c("lat", "lon"))<br />
+		s.sty <- styleCat(prop="groupName",val=grouplist, style.val= hue_pal()(length(grouplist)))<br />
+		s.map <- leaflet(data=s.dat, style=s.sty, base.map = c("osm", "cm", "mqosm"), popup="clinicRef")<br />
+		browseURL(s.map)</code>
+	</div></section>
+	<section class="slide"><div>
+	<h2>leafletR - Step by step</h2>
+	<ul>
+		<li>toGeoJSON: 需要定義 lat 和 lon 的 column 名稱，產生 <a href="cList.geojson">GeoJSON</a>檔案</li>
+		<li>styleCat: 另有 styleSingle和styleGrad</li>
+		<li>leaflet: 把geojson 和 style 湊在一起，定義 base.map 以及 popup，產生 <a href="cList/cList.html">leaflet 頁面</a></li></ul>
+	</div></section>
+	<section class="slide"><div>
+	<h2>後來改用 rCharts 的原因</h2>
+	<ul>
+		<li>style 設定有點限制，例如只能產生 circleMarker</li>
+		<li>不想產生新的檔案</li>
+		<li>跟 shiny 的合作比較順利 (在下才疏學淺，leafletR 卡關)</li></ul>
+	</div></section>
+	<section class="slide"><div>
+	<h2>rCharts</h2>
+	<p><a href="rCharts_demo.R">Code</a> 比較長一點，為了方便，寫 code 時定義下列幾個 function：</p>
+	<ul>
+		<li>getList: data.frame -> 為了產生 rCharts 可吃的 list</li>
+		<li>getCenter: 尋找資料的中心，rCharts 的範例程式都需要這個步驟，似乎不能 auto...</li>
+		<li>plotMap: list -> geoJSON ->畫圖</li></ul>
+	<p>官方的文件非常不完整...</p>
+	</div></section>
+	<section class="slide"><div>
+	<h2>rCharts 可以吃的List</h2>
+	<ul>
+		<li>list in list</li>
+		<li>以下欄位必備：latitude, longitude</li>
+		<li>這時候就要定義好：fillColor, popup</li></ul>
+	</div></section>
+	<section class="slide"><div>
+	<h2>Shiny</h2>
+	<ul>
+		<li>可以互動</li>
+		<li>ui.R, server.R (可以加上 global.R)</li>
+		<li>可 deploy 到 shinyapps.io 上，但是我遇到中文問題，尚未克服。</li></ul>
+	</div></section>
+	<section class="slide shout"><div>
+	<h2>Demo *3</h2>
+	</div></section>
+	<section class="slide shout"><div>
+	<h2>Thank You</h2>
+	</div></section>
+	<p class="badge"><a href="https://github.com/shower/shower">Fork me on Github</a></p>
+	<!--
+		To hide progress bar from entire presentation
+		just remove “progress” element.
+		-->
+	<div class="progress"><div></div></div>
+	<script src="lib/shower/shower.min.js"></script>
+	<!-- Copyright 2013 Yours Truly, Famous Inc. -->
+	<!-- Photos by John Carey, fiftyfootshadows.net -->
+</body>
+</html>
